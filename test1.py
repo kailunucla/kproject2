@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 import sys
 import matplotlib
 
+import test2
+
 dsadasdadsadsad
 sdasadsadsadsa
 sdan
@@ -10,7 +12,8 @@ sdasasda
 sss
 
 
-df = pd.read_csv(csv_file)
+csv_file = klkl
+
 
 DayofWeek = {'Monday':1,'Tuesday':2,'Wednesday':3,'Thursday':4,'Friday':5,'Saturday':6,'Sunday':7}
 DayofWeekBinary = {'Monday':[0,0,0,0,0,0,1],
